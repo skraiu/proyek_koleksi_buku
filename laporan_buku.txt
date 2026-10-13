@@ -1,0 +1,9 @@
+LAPORAN KOLEKSI BUKU
+==============================
+Basis Data - Sari (2022), stok: 2
+Dasar Pemrograman - Budi (2020), stok: 5
+Statistika - Dewi (2018), stok: 8
+==============================
+Total judul : 3
+Total stok  : 15
+Stok menipis: 1 judul

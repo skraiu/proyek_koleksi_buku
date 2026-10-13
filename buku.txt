@@ -1,0 +1,4 @@
+Dasar Pemrograman;Budi;2020;5
+Basis Data;Sari;2022;2
+Statistika;Dewi;2018;8
+Buku Rusak;Anon;abcd;2
